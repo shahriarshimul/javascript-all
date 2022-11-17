@@ -1,3 +1,5 @@
+// modulous arithmetic
+
 let digit1=19;
 let digit2=2;
 
@@ -19,8 +21,11 @@ y*=10;
 
 console.log(y);
 
+// assignment exponentiation
 
 let m=10;
  m**=5;
 
 console.log(m);
+
+

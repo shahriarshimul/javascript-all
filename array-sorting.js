@@ -23,20 +23,13 @@ For example, in the Firefox web browser, it uses the merge sort implementation w
 // max & min value for an array
 
 
-// determinant for lowest value
+// determinant for lowest & highest value for an array
 const cars=[2,34,5,67,22,123];
 cars.sort(function(a,b) {return a-b});
 const carss=cars.length-1;
 console.log(cars);
 console.log(cars[0]);
 console.log(cars[cars.length-1]);
-
-
-// //determinant for highest value 
-// cars.sort(function(a,b) {return b-a});
-// const carss=cars.length-1;
-// console.log(cars);
-// console.log(carss[0]);
 
     
 

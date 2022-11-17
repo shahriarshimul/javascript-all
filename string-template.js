@@ -6,8 +6,7 @@ console.log(text3);
 
 
 let a=36, b=12, c=11, x=12;
-
-let printCalculate=`${(a*x*x)+(b*x)+(c)}`;
+let printCalculate=`${(a*x*x)+(b*x)+(c)}`; /*a binominal expression might not effect on coding*/
 console.log(printCalculate);
 
 

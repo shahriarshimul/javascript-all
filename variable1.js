@@ -10,12 +10,11 @@ const x=10;
 
 // adding javascript settings
 
-const text1="Bangladesh";
-const text2="is the worst";
+let text1="Bangladesh";
+let text2="is the worst";
 let text5="IS NOTHING WITHOUT";
 text5+=" Miracle";
-const text3= text1+ " "+ text2;
-const text6= text1+ " "+text5;
+let text3= text1+ " "+ text2;
 console.log(text3);
 
  

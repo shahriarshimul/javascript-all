@@ -57,7 +57,3 @@ function myFunction(value,array,index)
 console.log("The first element of array using findIndex() method which is larger than 18: "+ pointers);
 
 
-// JavaScript Array.from()
-
-const alpha=["abcdedbfsfj"];
-console.log(alpha);
