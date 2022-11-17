@@ -42,4 +42,5 @@ console.log(Math.E); /* Value of E */
 console.log(Math.LN10); /* value of ln10*/
 console.log(Math.PI); /* value of PI */
 console.log(Math.SQRT2); /* value of square root two */
-console.log(Math.trunc(3.9));
+console.log(Math.trunc(3.9)); /* Returns the integer part of x */
+
